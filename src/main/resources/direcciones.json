@@ -1,0 +1,37 @@
+[
+  {
+    "provincia": 52,
+    "municipio": 1,
+    "unidadPoblacional": 103001,
+    "via": 38010,
+    "calle": "Almacén Central"
+  },
+  {
+    "provincia": 52,
+    "municipio": 1,
+    "unidadPoblacional": 107003,
+    "via": 38011,
+    "calle": "Calle Coruña"
+  },
+  {
+    "provincia": 52,
+    "municipio": 1,
+    "unidadPoblacional": 103002,
+    "via": 38012,
+    "calle": "Calle Cossio"
+  },
+  {
+    "provincia": 52,
+    "municipio": 1,
+    "unidadPoblacional": 105001,
+    "via": 38013,
+    "calle": "Calle Costa Rica"
+  },
+  {
+    "provincia": 52,
+    "municipio": 1,
+    "unidadPoblacional": 108005,
+    "via": 38014,
+    "calle": "Calle Covadonga"
+  }
+]
